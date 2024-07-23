@@ -1,4 +1,5 @@
 How to Use:
+
 Run the program: Execute the script in a Python environment.
 
 Choose the operation: You will be prompted to choose whether you want to encrypt or decrypt a message by typing 'E' or 'D'.
